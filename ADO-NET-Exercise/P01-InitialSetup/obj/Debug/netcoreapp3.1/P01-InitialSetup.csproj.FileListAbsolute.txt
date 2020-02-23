@@ -1,0 +1,3 @@
+C:\Users\Petko Pedev\source\CSharpDbRepo\ADO-NET-Exercise\P01-InitialSetup\bin\Debug\netcoreapp3.1\P01-InitialSetup.exe
+C:\Users\Petko Pedev\source\CSharpDbRepo\ADO-NET-Exercise\P01-InitialSetup\obj\Debug\netcoreapp3.1\P01-InitialSetup.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\CSharpDbRepo\ADO-NET-Exercise\P01-InitialSetup\obj\Debug\netcoreapp3.1\P01-InitialSetup.AssemblyInfo.cs

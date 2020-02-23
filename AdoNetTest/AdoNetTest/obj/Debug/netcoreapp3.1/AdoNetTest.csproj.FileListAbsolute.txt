@@ -1,0 +1,4 @@
+C:\Users\Petko Pedev\source\CSharpDbRepo\AdoNetTest\AdoNetTest\bin\Debug\netcoreapp3.1\AdoNetTest.exe
+C:\Users\Petko Pedev\source\CSharpDbRepo\AdoNetTest\AdoNetTest\obj\Debug\netcoreapp3.1\AdoNetTest.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\CSharpDbRepo\AdoNetTest\AdoNetTest\obj\Debug\netcoreapp3.1\AdoNetTest.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\CSharpDbRepo\AdoNetTest\AdoNetTest\obj\Debug\netcoreapp3.1\AdoNetTest.AssemblyInfo.cs

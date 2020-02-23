@@ -1,0 +1,4 @@
+C:\Users\Petko Pedev\source\CSharpDbRepo\ADO-NET-Exercise\P06-RemoveVillian\bin\Debug\netcoreapp3.1\P06-RemoveVillian.exe
+C:\Users\Petko Pedev\source\CSharpDbRepo\ADO-NET-Exercise\P06-RemoveVillian\obj\Debug\netcoreapp3.1\P06-RemoveVillian.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\CSharpDbRepo\ADO-NET-Exercise\P06-RemoveVillian\obj\Debug\netcoreapp3.1\P06-RemoveVillian.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\CSharpDbRepo\ADO-NET-Exercise\P06-RemoveVillian\obj\Debug\netcoreapp3.1\P06-RemoveVillian.AssemblyInfo.cs

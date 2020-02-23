@@ -1,0 +1,3 @@
+C:\Users\Petko Pedev\source\CSharpDbRepo\ADO-NET-Exercise\P03-MinionNames\bin\Debug\netcoreapp3.1\P03-MinionNames.exe
+C:\Users\Petko Pedev\source\CSharpDbRepo\ADO-NET-Exercise\P03-MinionNames\obj\Debug\netcoreapp3.1\P03-MinionNames.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\CSharpDbRepo\ADO-NET-Exercise\P03-MinionNames\obj\Debug\netcoreapp3.1\P03-MinionNames.AssemblyInfo.cs
