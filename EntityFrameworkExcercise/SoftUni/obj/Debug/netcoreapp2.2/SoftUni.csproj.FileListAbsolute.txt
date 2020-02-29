@@ -1,0 +1,10 @@
+C:\Users\Petko Pedev\source\CSharpDbRepo\EntityFrameworkExcercise\SoftUni\bin\Debug\netcoreapp2.2\SoftUni.deps.json
+C:\Users\Petko Pedev\source\CSharpDbRepo\EntityFrameworkExcercise\SoftUni\bin\Debug\netcoreapp2.2\SoftUni.runtimeconfig.json
+C:\Users\Petko Pedev\source\CSharpDbRepo\EntityFrameworkExcercise\SoftUni\bin\Debug\netcoreapp2.2\SoftUni.runtimeconfig.dev.json
+C:\Users\Petko Pedev\source\CSharpDbRepo\EntityFrameworkExcercise\SoftUni\bin\Debug\netcoreapp2.2\SoftUni.dll
+C:\Users\Petko Pedev\source\CSharpDbRepo\EntityFrameworkExcercise\SoftUni\bin\Debug\netcoreapp2.2\SoftUni.pdb
+C:\Users\Petko Pedev\source\CSharpDbRepo\EntityFrameworkExcercise\SoftUni\obj\Debug\netcoreapp2.2\SoftUni.csprojAssemblyReference.cache
+C:\Users\Petko Pedev\source\CSharpDbRepo\EntityFrameworkExcercise\SoftUni\obj\Debug\netcoreapp2.2\SoftUni.AssemblyInfoInputs.cache
+C:\Users\Petko Pedev\source\CSharpDbRepo\EntityFrameworkExcercise\SoftUni\obj\Debug\netcoreapp2.2\SoftUni.AssemblyInfo.cs
+C:\Users\Petko Pedev\source\CSharpDbRepo\EntityFrameworkExcercise\SoftUni\obj\Debug\netcoreapp2.2\SoftUni.dll
+C:\Users\Petko Pedev\source\CSharpDbRepo\EntityFrameworkExcercise\SoftUni\obj\Debug\netcoreapp2.2\SoftUni.pdb
